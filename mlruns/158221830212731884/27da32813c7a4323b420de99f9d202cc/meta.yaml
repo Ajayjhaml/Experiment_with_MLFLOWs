@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/158221830212731884/27da32813c7a4323b420de99f9d202cc/artifacts
+end_time: 1753704581652
+entry_point_name: ''
+experiment_id: '158221830212731884'
+lifecycle_stage: active
+run_id: 27da32813c7a4323b420de99f9d202cc
+run_name: angry-lark-235
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753704570985
+status: 3
+tags: []
+user_id: CT_USER

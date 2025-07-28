@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/CT_USER/Desktop/MLOPs/Experiment_with_MLFLOWs/mlruns/824149918206205235/7393d6112438457aa59719069c1b2798/artifacts
+end_time: 1753705395787
+entry_point_name: ''
+experiment_id: '824149918206205235'
+lifecycle_stage: active
+run_id: 7393d6112438457aa59719069c1b2798
+run_name: awesome-horse-16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753705380382
+status: 3
+tags: []
+user_id: CT_USER

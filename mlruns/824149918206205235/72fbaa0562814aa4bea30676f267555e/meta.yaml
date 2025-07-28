@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/CT_USER/Desktop/MLOPs/Experiment_with_MLFLOWs/mlruns/824149918206205235/72fbaa0562814aa4bea30676f267555e/artifacts
+end_time: 1753705388698
+entry_point_name: ''
+experiment_id: '824149918206205235'
+lifecycle_stage: active
+run_id: 72fbaa0562814aa4bea30676f267555e
+run_name: salty-snipe-47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753705388635
+status: 3
+tags: []
+user_id: CT_USER

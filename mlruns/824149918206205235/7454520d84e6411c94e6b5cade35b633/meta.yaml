@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/CT_USER/Desktop/MLOPs/Experiment_with_MLFLOWs/mlruns/824149918206205235/7454520d84e6411c94e6b5cade35b633/artifacts
+end_time: 1753705387923
+entry_point_name: ''
+experiment_id: '824149918206205235'
+lifecycle_stage: active
+run_id: 7454520d84e6411c94e6b5cade35b633
+run_name: beautiful-cat-893
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753705387848
+status: 3
+tags: []
+user_id: CT_USER

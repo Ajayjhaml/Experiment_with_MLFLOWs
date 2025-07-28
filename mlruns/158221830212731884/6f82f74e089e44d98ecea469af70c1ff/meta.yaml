@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/158221830212731884/6f82f74e089e44d98ecea469af70c1ff/artifacts
+end_time: 1753705663904
+entry_point_name: ''
+experiment_id: '158221830212731884'
+lifecycle_stage: active
+run_id: 6f82f74e089e44d98ecea469af70c1ff
+run_name: capable-frog-417
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753705657509
+status: 3
+tags: []
+user_id: CT_USER
